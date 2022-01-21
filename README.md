@@ -2,7 +2,7 @@
 - 👀 I’m interested in movie,read and bilibili.
 - 🌱 I’m currently learning java,docker,spring.
 - 💞️ I’m looking to collaborate on ... myself.
-- 📫 How to reach me ... skliu1022@gmail.com.
+- 📫 How to reach me ... ****@gmail.com.
 
 <!---
 mattskjy/mattskjy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
