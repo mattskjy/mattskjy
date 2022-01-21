@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mattskjy
 - 👀 I’m interested in movie,read and bilibili.
-- 🌱 I’m currently learning java，docker,spring.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning java,docker,spring.
+- 💞️ I’m looking to collaborate on ... myself.
 - 📫 How to reach me ... skliu1022@gmail.com.
 
 <!---
